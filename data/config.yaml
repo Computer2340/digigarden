@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Trav
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -9,21 +9,21 @@ enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
-enableRecentNotes: false
+enableRecentNotes: true
 enableGitHubEdit: true
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/Computer2340/digigarden/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  This is a digital garden written by a DevOps engineer. The idea is to mainly
+  focus on DevOps, but to be forgiving of the frequent tangents that come with
+  knoweldge work. If we jot down these tangents and document them, we can more
+  easily move on from them
 page_title:
-  "🪴 Quartz 3.3"
+  "Trav's Digital Garden"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/Computer2340
