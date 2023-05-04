@@ -1,29 +1,66 @@
+# Major page settings
 name: Trav
+page_title: "Trav's Digital Garden"
+description: This is a digital garden written by a DevOps engineer. The idea is to mainly
+  focus on DevOps, but to be forgiving of the frequent tangents that come with
+  knoweldge work. If we jot down these tangents and document them, we can more
+  easily move on from them
+
+# Table of Contents
 enableToc: true
 openToc: false
-enableLinkPreview: true
-enableLatex: true
+
+# Code block settings
 enableCodeBlockTitle: true
 enableCodeBlockCopy: true
+
+# Github settings
+enableGitHubEdit: true
+GitHubLink: https://github.com/Computer2340/digigarden/tree/hugo/content
+
+# Graph settings
+localGraph:
+  enableLegend: true
+  enableDrag: true
+  enableZoom: true
+  depth: 2
+  scale: 1
+  repelForce: 1
+  centerForce: 1
+  linkDistance: 1
+
+## Global Graph settings
+enableGlobalGraph: true
+globalGraph:
+  enableLegend: true
+  enableDrag: true
+  enableZoom: true
+  depth: 2
+  scale: 1
+  repelForce: 1
+  centerForce: 1
+  linkDistance: 1
+
+# General settings
+enableLinkPreview: true
+enableLatex: true
 enableCallouts: true
 enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
-enableGitHubEdit: true
+
 enableMermaid: true
-GitHubLink: https://github.com/Computer2340/digigarden/tree/hugo/content
+favicon:
+  - { rel: "icon", href: "favicon.ico", type: "image/x-icon" }
+  - { rel: "shortcut icon", href: "android-chrome-192x192.png", type: "image/x-icon" }
+  - { rel: "apple-touch-icon", href: "favicon.ico", type: "image/png", sizes="180x180" }
+
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description:
-  This is a digital garden written by a DevOps engineer. The idea is to mainly
-  focus on DevOps, but to be forgiving of the frequent tangents that come with
-  knoweldge work. If we jot down these tangents and document them, we can more
-  easily move on from them
-page_title:
-  "Trav's Digital Garden"
+
 links:
   - link_name: GitHub
     link: https://github.com/Computer2340
