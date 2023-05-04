@@ -1,4 +1,4 @@
-baseURL = "https://Computer2340.github.io/digigarden/"
+baseURL = "https://computer2340.github.io/digigarden/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
