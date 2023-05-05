@@ -10,7 +10,7 @@ YOTED tools need to be yeeted into the sun. They're not good. They may have been
 # GOATed
 
 - Cloud infInfrastructure:
-	- [Terraform](https://www.terraform.io/)
+	- [[Terraform]]
  - Organization
 	 - Logseq
 	 - Obsidian
