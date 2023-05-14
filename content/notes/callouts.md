@@ -1,63 +1,13 @@
 ---
 title: "Callouts"
 ---
+A callout is an attention-grabbing block. Attention-grabbing blocks help enhance the skimmability of a document.
 
-## Callout support
+> [!info] Callout Example
+> This is an example of a callout
 
-Quartz supports the same Admonition-callout syntax as Obsidian.
+```markdown
+> [!info] Callout Example
+> This is an example of a callout
+```
 
-This includes
-- 12 Distinct callout types (each with several aliases)
-- Collapsable callouts
-
-See [documentation on supported types and syntax here](https://help.obsidian.md/Editing+and+formatting/Callouts).
-
-## Showcase
-
-> [!EXAMPLE] Examples
->
-> Aliases: example
-
-> [!note] Notes
->
-> Aliases: note
-
-> [!abstract] Summaries 
->
-> Aliases: abstract, summary, tldr
-
-> [!info] Info 
->
-> Aliases: info, todo
-
-> [!tip] Hint 
->
-> Aliases: tip, hint, important
-
-> [!success] Success 
->
-> Aliases: success, check, done
-
-> [!question] Question 
->
-> Aliases: question, help, faq
-
-> [!warning] Warning 
->
-> Aliases: warning, caution, attention
-
-> [!failure] Failure 
->
-> Aliases: failure, fail, missing
-
-> [!danger] Error
->
-> Aliases: danger, error
-
-> [!bug] Bug
->
-> Aliases: bug
-
-> [!quote] Quote
->
-> Aliases: quote, cite
